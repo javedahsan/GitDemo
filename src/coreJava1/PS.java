@@ -14,6 +14,7 @@ public class PS {
 	
 	public void doThis() {
 		System.out.println("I am here");
+		System.out.println("I am here");
 	}
 	
 	@AfterMethod

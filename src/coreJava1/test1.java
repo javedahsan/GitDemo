@@ -27,10 +27,15 @@ public class test1 {
 			}
 
 		}
-		System.out.println("regular: " + count);
-		System.out.println("regular: " + count);
-		System.out.println("regular: " + count);
-		System.out.println("regular: " + count);
+		System.out.println("regular1: " + count);
+		System.out.println("regular2: " + count);
+		System.out.println("regular3: " + count);
+		System.out.println("regular4: " + count);
+		
+		//ff gitx dev
+		System.out.println("regular5: " + count);
+		System.out.println("regular6: " + count);
+		System.out.println("regular7: " + count);
 	}
 
 	@Test
