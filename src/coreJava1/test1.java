@@ -36,6 +36,8 @@ public class test1 {
 		System.out.println("regular5: " + count);
 		System.out.println("regular6: " + count);
 		System.out.println("regular7: " + count);
+		System.out.println("regular8: " + count);
+		System.out.println("regular9: " + count);
 	}
 
 	@Test
