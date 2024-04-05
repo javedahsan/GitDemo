@@ -30,6 +30,7 @@ public class test1 {
 		System.out.println("regular: " + count);
 		System.out.println("regular: " + count);
 		System.out.println("regular: " + count);
+		System.out.println("regular: " + count);
 	}
 
 	@Test
