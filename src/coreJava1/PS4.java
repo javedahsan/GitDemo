@@ -3,7 +3,7 @@ package coreJava1;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
-public class PS {
+public class PS4 {
 
 	//access all method and class into another class
 	
@@ -16,7 +16,6 @@ public class PS {
 		System.out.println("I am here");
 		System.out.println("I am here");
 		System.out.println("I am here");
-		System.out.println("I am PS4");
 	}
 	
 	@AfterMethod
